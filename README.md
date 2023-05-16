@@ -7,6 +7,7 @@ If no message is specified, a generic greeting is used.
 
 Options:
   -d, --directory=DIRECTORY  the DIRECTORY to arrange files.
+ 
   -a, --arrange=VALUE        Arrange By could be any of the following
                                y-> Year, no leading zero (e.g. 2015 would be
                                15)
